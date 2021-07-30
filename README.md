@@ -3,7 +3,6 @@
 - :blossom: I love to learn new things and grow everyday 
 - 👀 I’m interested in Next Generation Sequencing data analysis
 - 🌱 I’m currently learning scRNA-seq data analysis
-- 
 - 📫 How to find me:
   - :office: [Linkedin] (https://www.linkedin.com/in/saikat-das-sajib)
   - :e-mail: [E-mail] (s.sajib63@yahoo.com)
